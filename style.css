@@ -1,6 +1,7 @@
 body {
     font-family: sans-serif;
-    background-color: rgb(0, 0, 0);
+    background-color: black;
+    color: white;
 }
 
 header {
@@ -119,13 +120,6 @@ h2{
 
 }
 
-h3{
-    color: white;
-}
-
-h5{
-    color: white;
-}
 
 .gallery {
     display: flex;
