@@ -1,0 +1,90 @@
+<html>
+    <body>
+        <header>
+            <div class="logo"><img src="https://upload.wikimedia.org/wikipedia/ru/5/5c/S.T.A.L.K.E.R._2_Logo.png" height="100px" width="100px"></div>
+            <p class="header-h1"> 
+                S.T.A.L.K.E.R. 2
+                 </p>
+                  <nav>
+                <a href="#Treiler"> Відео трейлер</a>
+                <a href="#Info"> Інформація</a>
+                <a href="#Plot"> Сюжет</a>
+                <a href="#History"> Розробка</a>
+                <a href="#Screens"> скріншоти</a>
+            </nav>
+            
+            </header>
+
+        <main>
+            <section class="first">
+                <h1 id="Treiler"> Відео трейлер </h1>
+                <div class="treiler">
+                    <iframe width="100%" height="400px" src="https://www.youtube.com/embed/UkijWdyhNLM" title="S.T.A.L.K.E.R. 2: Heart of Chornobyl — Official &quot;Not a Paradise&quot; Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </div>
+            </section>
+
+            <section>
+                <div>
+                    <h2 id="Info">S.T.A.L.K.E.R. 2 </h2>
+                    <p>«S.T.A.L.K.E.R. 2: Серце Чорнобиля — постапокаліптичний шутер від першої особи, що розробляється компанією GSC Game World. Частина серії S.T.A.L.K.E.R.</p>
+                    <img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2023/08/stalker-2-key-art.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5" width="100%" height="auto">
+                </div>
+            </section>
+            <h1 id="Plot"> Сюжет </h1>
+            <h5>Згідно з офіційною інформацією, сюжет в грі буде нелінійним. Рішення гравця будуть впливати на стан навколишнього відкритого світу.</h5>
+            <img src="https://games.24tv.ua/resources/photos/news/202401/2473682.jpg?v=1705342364000" width="1650px" height="500px">
+
+            <section>
+                <h1> Локації </h1>
+                <h5> Дані локації були показані в трейлері або з'являлись на артах. Кінцеві назви місць можуть відрізнятися.
+
+Болота — стара церква.
+Кордон — селище новачків, АТП.
+Лабораторія X-16 — центральний зал з пультами управління і живими істотами (результати експериментів) в колбах.
+Радар — «Випалювач мізків». Конструкція виглядає не як в «Тіні Чорнобилю», а більше походить на її реальний прототип ЗГРЛС «Дуга».
+Околиці «Юпітера» — «Янів».
+Шляхопровід «Прип'ять-1».
+Прип'ять — колесо огляду, школа.</h5>
+            
+            </section>
+            <h1> Скриншоти </h1>
+             <section class="gallery">
+                <div class="Image">
+                    <img src="https://rozetked.me/images/uploads/webp/VceKvqIJAgqy.webp" width="250px"/>
+                </div>
+
+             
+                <div class="Image">
+                    <img src="https://images.unian.net/photos/2022_06/1655141623-9774.jpg?r=833189" width="250px" />
+                </div>
+             
+
+                <div class="Image">
+                    <img src="https://i.moyo.ua/img/gallery/4960/70/1195495_middle.jpg" width="250px"/>
+                </div>
+             </section>
+
+            <section>
+                <h1 id="History"> Розробка </h1>
+                <p>Поява першого візуального тизера із написом 2.0.2.1., що супроводжувався написом “A. N. N. O. U. N. C. E. D. 2”. Багато хто думав, що це рік запуску гри, але у лютому 2019 року розробники дали зрозуміти, що це ще й шифр: якщо від цих цифр відняти рік у якому відбулася Чорнобильська трагедія 2021 – 1986, отримаємо 35 — саме це число вони опублікували з текстом : “Що може ховатись за 2.0.2.1.? Першу частину коду розв'язано — це 35. Можливо, це допоможе вам у майбутньому”. Починаючи з часової відмітки 00:20 можна почути багатьом відому Азбуку Морзе, що мало вже де використовується офіційно, але все ще може допомогти в екстрених випадках. Фанати розшифрували код та отримали приблизно такі слова: “Хто-небудь мене чує? Але… Це не так вже й важливо. Я звик до самотності… Зона дала всьому сенс… Мені треба зачекати ще…” [Does anybody hear me? Але… It doesn’t really matter. I've got used to loneliness… The Zone gave a reason to everything…I still need to wait for…]. Хто відправляє цей радіосигнал? Чи відомим є цей персонаж? Чи можливо це Стрілець? Ходять чутки, що на постері у протигазі зображень саме сталкер-легенда. Варто звернути увагу на очі. Але це вже здогадки. Так само і те, що на стінах реактора, що зображений на постері теж є якийсь шифр чи графіті. І якщо погратися з яскравістю картинки, то справді можна побачити деякі артефакти зображення. Але зроблено це спеціально співробітниками GSC Game World чи це просто спроба допитливих фанатів знайти щось таємниче на звичайному промо-зображенні — досі невідомо[3]. 21 серпня вийшов перший официальний саундтрек до гри "108 bit of the Zone"</p>
+            
+            </section>
+             <section>
+                <h1> Геймплей </h1>
+                    <iframe width="100%" height="400px" src="https://www.youtube.com/embed/VdyUL2Wuz7Y" title="S.T.A.L.K.E.R. 2: Серце Чорнобиля - трейлер ігроладу (УКРАЇНСЬКОЮ МОВОЮ) @HUMANWASDGames" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </section>
+            <section>
+                <img class="TM" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/PEGI_18.svg/425px-PEGI_18.svg.png">
+                <h3>У S.T.A.L.K.E.R. 2 буде оновлена система симуляції життя під назвою A-Life 2.0. Персонажі будуть взаємодіяти один з одним і з оточенням без участі гравця. У другій частині шутера буде масштабний нелінійний сюжет, де рішення користувачів будуть впливати на долю персонажів, локальні події і навіть на весь світ гри. У S.T.A.L.K.E.R. 2 будуть як знайомі фанатам локації, так і нові. Ще на гравців чекають нові мутанти, артефакти і аномалії – одну з них показали в трейлері. При створенні гри розробники використовують захоплення рухів і облич, а також фотограмметрію. Сама гра працює на рушії Unreal Engine.</h3>
+            </section>
+           
+
+
+    
+        </main>
+        <footer>
+           
+        </footer>
+    </body>
+</html>
+
