@@ -2,6 +2,8 @@ body {
     font-family: sans-serif;
     background-color: black;
     color: white;
+    display: flex;
+    flex-direction: column;
 }
 
 header {
@@ -11,45 +13,45 @@ header {
     padding: 15px;
     margin-bottom: 20px;
 }
-
-.button {
-    background-color: #36bbce;
-    color: rgb(255, 255, 255);
-    text-decoration: none;
-    padding: 15px;
-    font-size: 24px;
-    border-radius: 10px;
-    display: block;
+.logo{
+    float:left;
 }
-
-nav {
-    border-top: 5px solid white;
-    border-bottom: 5px solid white;
-    padding: 25px 100px 25px 95px;
-    display: flex;
-    justify-content: space-around;
+.header-h1{
     
-}
-
-.nav-link {
-    font-size: 24px;
-    color: white;
-    text-decoration: none;
-    display: block;
-}
-
-h1 {
+    width: 100%;
+    float: right;
     text-align: center;
-    color: white;
-    font-size: 36px;
-    margin-top: 45px;
-    margin-bottom: 40px;
-    height: ;
+}
+nav{
+    display: flex;
+    float: left;
+    justify-content: space-around;
+}
+nav a{
+    margin: 20px;
+    text-decoration: none;
+    color:white;
+}
+nav a:hover{
+    border-radius: 10px;
+    border:1px solid white;
+    background-color: white;
+    color: black;
+    box-shadow:5px 10px 5px 0 wheat;
+    transition: .5s;
+    transform: translate3d(-5px);
+    
+    padding: 5px;
+}
+h1{
+    text-align: center;
 }
 
-.post-text {
-    font-size: 24px;
+.treiler{
+    width: 100%;
+    height: auto;
 }
+
 
 .info {
     display: flex;
@@ -66,24 +68,9 @@ h1 {
     position: relative;
 }
 
-.article-but {
-    text-decoration: none;
-    background-color: #133aac;
-    color: white;
-    font-size: 24px;
-    text-align: center;
-    padding: 10px 75px 10px 75px;
-    display: block;
-}
 
-.full-image {
-    margin: 100px 0px 100px 0px;
-}
 
-.social {
-    display: block;
-    width: 30px;
-}
+
 
 footer {
     background-color: black
@@ -120,32 +107,41 @@ h2{
 
 }
 
+p{
+    text-align: justify;
+    margin:15px 25px 15px 25px;
+}
+
 
 .gallery {
     display: flex;
-    width: 1700px;
-    flex-wrap: wrap;
+    width: 100%;
+    justify-content: space-around;
+    margin: 0 50px 0 50px;
     
     
 }
 
-.gallery img {
-    opacity: 0.2;
-    width: 250px;
-    height: 150px;
+.Image {
+   width: 50%;
 
 }
-.gallery img:hover{
+.Image img{
+    opacity: 0.3;
+}
+.Image img:hover{
 opacity: 1;
-width: 500px;
-height: 300px;
+transform: scale(1.5);
 transition: ease-in 0.5s;
 
 }
 
 .TM{
-    width: 450px;
-    height: 450px;
+    width: 100px;
+    height: 100px;
     display: block;
-    margin-left: 300px;
+    float: left;
+}
+footer p{
+    font-size: 10px;
 }
